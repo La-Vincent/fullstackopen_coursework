@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Hank McCoy",
+      "number": "23-12111",
+      "id": 5
+    },
+    {
+      "name": "Test King",
+      "number": "23-1111",
+      "id": 6
+    },
+    {
+      "name": "Styling1",
+      "number": "23-11",
+      "id": 7
+    }
+  ]
+}
